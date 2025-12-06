@@ -1,0 +1,1 @@
+const student1 = {name: "A" , age: 12};
