@@ -7,6 +7,7 @@ const newStudent = {
 
 const anh = () => {
     const condition = true;
+    const payload = { name: 'Nam', age: 23};
     if (condition) {
         console.log("OKOK");
     }
