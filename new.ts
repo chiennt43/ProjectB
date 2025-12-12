@@ -10,5 +10,7 @@ const anh = () => {
     const payload = { name: 'Nam', age: 23};
     if (condition) {
         console.log("OKOK");
+        const dataUpdate = 2;
     }
+    return true;
 }
