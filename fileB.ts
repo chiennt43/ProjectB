@@ -1,0 +1,1 @@
+const fileB = 1;
